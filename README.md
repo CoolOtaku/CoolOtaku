@@ -13,3 +13,17 @@
 ## Stats 📊
 <img src="https://gpvc.arturio.dev/CoolOtaku" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=material-palenight">
+
+## Hint Git-commands:
+
+git init
+
+git add .
+
+git commit -m "name commit"
+
+git branch -M main
+
+git remote add origin "URL"
+
+git push -f origin main
