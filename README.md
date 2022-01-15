@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolOtaku&show_icons=true&theme=dracula">
 
-## Hint Git-commands:
+## Hint Git-commands 😅:
 
 git init
 
