@@ -25,7 +25,7 @@
 - <a href="mailto:ericspz531@gmail.com">📩 E-mail: `ericspz531@gmail.com`</a>
 
 ## What can I do? 💪
-<h2 align="center">Android Applications</h2>
+<h2 align="center">📱 Android Applications 📱</h2>
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h3 align="center">YouCoolMusic2</h3>
@@ -35,6 +35,11 @@
   <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="650px"/>
   <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="650px"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/pin?username=CoolOtaku\&repo=YouCoolMusic2\&title_color=0075a8\&icon_color=f9f9f9\&text_color=ffffff\&bg_color=151515&hide_border=true">
+
+#
+
+
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
