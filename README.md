@@ -53,6 +53,20 @@
 <a href="https://github.com/CoolOtaku/OnlineVictorineApp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=OnlineVictorineApp&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">SearchGame2</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc2.png" height="450px"/>
+  <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc4.png" height="450px"/>
+  <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc7.png" height="450px"/>
+  <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc8.png" height="450px"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/SearchGame2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=SearchGame2&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
