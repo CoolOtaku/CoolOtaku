@@ -24,6 +24,10 @@
 - <a href="https://t.me/Coll_Otaku"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram </a>
 - <a href="mailto:ericspz531@gmail.com">📩 E-mail: `ericspz531@gmail.com`</a>
 
+## What can I do? 🦾
+
+
+
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolOtaku&layout=pie&theme=dark&title_color=0075a8&text_color=ffffff&hide_border=true&card_width=500px">
@@ -37,4 +41,3 @@ git branch -M main
 git remote add origin "URL"
 git push -f origin main
 ```
-
