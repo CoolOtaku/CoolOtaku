@@ -29,12 +29,14 @@
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h3 align="center">YouCoolMusic2</h3>
-<p align="center">
-  <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/3.png" height="400px"/>
-  <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/4.png" height="400px"/>
-  <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="400px"/>
-  <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="400px"/>
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/3.png" height="450px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/4.png" height="450px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="450px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="450px"/>
+  </div>
+</div>
 <p align="center">
 <a href="https://github.com/CoolOtaku/YouCoolMusic2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=YouCoolMusic2&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
