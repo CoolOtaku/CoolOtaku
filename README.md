@@ -67,6 +67,21 @@
 <a href="https://github.com/CoolOtaku/SearchGame2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=SearchGame2&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+<h2 align="center">🎮 Arcade Games 🎮</h2>
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/assets/images/icon.png"/></p>
+<h3 align="center">JetX✈F-16</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/screenshots/2.jpg" width="49%"/>
+  <img src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/screenshots/4.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/screenshots/6.png" width="49%"/>
+  <a href="https://www.youtube.com/watch?v=etoVw_5Qjeo"><img src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/screenshots/demo.webp"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/JetX-F-16"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=JetX-F-16&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
