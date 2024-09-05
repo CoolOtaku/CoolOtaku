@@ -35,7 +35,9 @@
   <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="650px"/>
   <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="650px"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/pin?username=CoolOtaku\&repo=YouCoolMusic2\&title_color=0075a8\&icon_color=f9f9f9\&text_color=ffffff\&bg_color=151515&hide_border=true">
+<p align="center">
+<a href="https://github.com/CoolOtaku/YouCoolMusic2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=YouCoolMusic2&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
 
 #
 
