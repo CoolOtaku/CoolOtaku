@@ -31,10 +31,10 @@
 <h3 align="center">YouCoolMusic2</h3>
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/3.png" height="450px"/>
-    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/4.png" height="450px"/>
-    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="450px"/>
-    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="450px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/3.png" height="460px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/4.png" height="460px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/6.png" height="460px"/>
+    <img src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/screenshots/7.png" height="460px"/>
   </div>
 </div>
 <p align="center">
