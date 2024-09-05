@@ -54,8 +54,12 @@
 </p>
 
 ## Stats 📊
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolOtaku&layout=pie&theme=dark&title_color=0075a8&text_color=ffffff&hide_border=true&card_width=500px">
+</p>
 
 ## Hint Git-commands 😅:
 ```bash
