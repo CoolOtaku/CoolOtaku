@@ -41,7 +41,17 @@
 
 #
 
-
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/OnlineVictorineApp/blob/4dd0acd8055e48ce93e3e55449703c0114da1f4d/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">OnlineVictorineApp</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/OnlineVictorineApp/blob/4dd0acd8055e48ce93e3e55449703c0114da1f4d/screens/Screenshot_20220406-010017.png" height="650px"/>
+  <img src="https://github.com/CoolOtaku/OnlineVictorineApp/blob/4dd0acd8055e48ce93e3e55449703c0114da1f4d/screens/Screenshot_20220406-010443.png" height="650px"/>
+  <img src="https://github.com/CoolOtaku/OnlineVictorineApp/blob/4dd0acd8055e48ce93e3e55449703c0114da1f4d/screens/Screenshot_20220406-010508.png" height="650px"/>
+  <img src="https://github.com/CoolOtaku/OnlineVictorineApp/blob/4dd0acd8055e48ce93e3e55449703c0114da1f4d/screens/Screenshot_20220406-013736.png" height="650px"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/OnlineVictorineApp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=OnlineVictorineApp&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
