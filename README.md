@@ -166,6 +166,20 @@
 <a href="https://github.com/CoolOtaku/MakeRiskBet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=MakeRiskBet&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/EndlessDesertSlot/blob/ec8d461c8c1e6cfc23ad837180d0c1298c665a1c/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">Endless Desert Slot</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/EndlessDesertSlot/blob/ec8d461c8c1e6cfc23ad837180d0c1298c665a1c/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/EndlessDesertSlot/blob/ec8d461c8c1e6cfc23ad837180d0c1298c665a1c/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/EndlessDesertSlot/blob/ec8d461c8c1e6cfc23ad837180d0c1298c665a1c/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/EndlessDesertSlot/blob/ec8d461c8c1e6cfc23ad837180d0c1298c665a1c/screenshots/4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/EndlessDesertSlot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=EndlessDesertSlot&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
