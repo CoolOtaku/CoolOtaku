@@ -96,6 +96,20 @@
 <a href="https://github.com/CoolOtaku/AdventureonFishing"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=AdventureonFishing&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/SweetCannon/blob/553d023af2d721605ac1e6a8816f63401c410769/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">Sweet Cannon</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/SweetCannon/blob/553d023af2d721605ac1e6a8816f63401c410769/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SweetCannon/blob/553d023af2d721605ac1e6a8816f63401c410769/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SweetCannon/blob/553d023af2d721605ac1e6a8816f63401c410769/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SweetCannon/blob/553d023af2d721605ac1e6a8816f63401c410769/screenshots/4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/SweetCannon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=SweetCannon&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
