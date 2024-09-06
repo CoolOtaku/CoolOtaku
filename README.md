@@ -152,6 +152,20 @@
 <a href="https://github.com/CoolOtaku/GameCasinluck"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=GameCasinluck&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/MakeRiskBet/blob/65316a5a85c5390fb9d09ec980a4ed0b7d6ef82f/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">Make Risk Bet</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/MakeRiskBet/blob/65316a5a85c5390fb9d09ec980a4ed0b7d6ef82f/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MakeRiskBet/blob/65316a5a85c5390fb9d09ec980a4ed0b7d6ef82f/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MakeRiskBet/blob/65316a5a85c5390fb9d09ec980a4ed0b7d6ef82f/screenshots/4.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MakeRiskBet/blob/65316a5a85c5390fb9d09ec980a4ed0b7d6ef82f/screenshots/5.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/MakeRiskBet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=MakeRiskBet&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
