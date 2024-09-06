@@ -82,6 +82,20 @@
 <a href="https://github.com/CoolOtaku/JetX-F-16"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=JetX-F-16&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/AdventureonFishing/blob/a60f969c20b363541195dd168b0d7c107e5ddfd7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">Adventure on Fishing</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/AdventureonFishing/blob/a60f969c20b363541195dd168b0d7c107e5ddfd7/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/AdventureonFishing/blob/a60f969c20b363541195dd168b0d7c107e5ddfd7/screenshots/6.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/AdventureonFishing/blob/a60f969c20b363541195dd168b0d7c107e5ddfd7/screenshots/8.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/AdventureonFishing/blob/a60f969c20b363541195dd168b0d7c107e5ddfd7/screenshots/4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/AdventureonFishing"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=AdventureonFishing&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
