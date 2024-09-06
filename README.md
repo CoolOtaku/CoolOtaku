@@ -124,7 +124,19 @@
 <a href="https://github.com/CoolOtaku/BAGPGame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=BAGPGame&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+<h2 align="center">♧ Casino Games ♧</h2>
 
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
+<h3 align="center">LepreGonzo LuckyHot</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/screenshots/4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/LepreGonzoLuckyHot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=LepreGonzoLuckyHot&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
 
 ## Stats 📊
 <p align="center">
