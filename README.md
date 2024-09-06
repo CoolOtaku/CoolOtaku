@@ -138,6 +138,20 @@
 <a href="https://github.com/CoolOtaku/LepreGonzoLuckyHot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=LepreGonzoLuckyHot&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/GameCasinluck/blob/52d1304e4b147c14d55dd8a33b270c391ca7fd41/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"/></p>
+<h3 align="center">Game Casin luck</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/GameCasinluck/blob/52d1304e4b147c14d55dd8a33b270c391ca7fd41/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/GameCasinluck/blob/52d1304e4b147c14d55dd8a33b270c391ca7fd41/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/GameCasinluck/blob/52d1304e4b147c14d55dd8a33b270c391ca7fd41/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/GameCasinluck/blob/52d1304e4b147c14d55dd8a33b270c391ca7fd41/screenshots/4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/GameCasinluck"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=GameCasinluck&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
