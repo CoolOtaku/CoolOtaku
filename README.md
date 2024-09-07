@@ -195,6 +195,20 @@
 <a href="https://github.com/CoolOtaku/switch-manager"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=switch-manager&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/city-news-if.com/blob/989699b29baef28bf74bc273713e3077a2af2409/public/assets/img/logo.png"/></p>
+<h3 align="center">city-news-if</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/city-news-if.com/blob/989699b29baef28bf74bc273713e3077a2af2409/screens/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/city-news-if.com/blob/989699b29baef28bf74bc273713e3077a2af2409/screens/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/city-news-if.com/blob/989699b29baef28bf74bc273713e3077a2af2409/screens/5.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/city-news-if.com/blob/989699b29baef28bf74bc273713e3077a2af2409/screens/6.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/city-news-if.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=city-news-if.com&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
