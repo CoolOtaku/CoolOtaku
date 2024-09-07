@@ -26,6 +26,10 @@
 
 ## What can I do? 💪
 - <a href="#android_applications">📱 Android Applications 📱</a>
+- <a href="#arcade_games">🎮 Arcade Games 🎮</a>
+- <a href="#casino_games">♧ Casino Games ♧</a>
+- <a href="#"></a>
+- <a href="#"></a>
 
 <h2 id="android_applications" align="center">📱 Android Applications 📱</h2>
 
@@ -69,7 +73,7 @@
 <a href="https://github.com/CoolOtaku/SearchGame2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=SearchGame2&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
-<h2 align="center">🎮 Arcade Games 🎮</h2>
+<h2 id="arcade_games" align="center">🎮 Arcade Games 🎮</h2>
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/JetX-F-16/blob/7b3d610161d9c24092a0e9df308574e7de745670/assets/images/icon.png"/></p>
 <h3 align="center">JetX✈F-16</h3>
@@ -126,7 +130,7 @@
 <a href="https://github.com/CoolOtaku/BAGPGame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=BAGPGame&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
-<h2 align="center">♧ Casino Games ♧</h2>
+<h2 id="casino_games" align="center">♧ Casino Games ♧</h2>
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/LepreGonzoLuckyHot/blob/3d8212c8cffe561fef086669ce95216433e65448/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h3 align="center">LepreGonzo LuckyHot</h3>
