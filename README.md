@@ -187,6 +187,7 @@
 <p align="center">
   <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s1.png" width="49%"/>
   <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s4.png" width="49%"/>
   <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s5.png" width="49%"/>
   <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s6.png" width="49%"/>
 </p>
