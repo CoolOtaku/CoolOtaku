@@ -25,7 +25,9 @@
 - <a href="mailto:ericspz531@gmail.com">📩 E-mail: `ericspz531@gmail.com`</a>
 
 ## What can I do? 💪
-<h2 align="center">📱 Android Applications 📱</h2>
+- <a href="#android_applications">📱 Android Applications 📱</a>
+
+<h2 id="android_applications" align="center">📱 Android Applications 📱</h2>
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/YouCoolMusic2/blob/721b88e6ab53bde9fcb29d1beb6537716320d24c/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h3 align="center">YouCoolMusic2</h3>
