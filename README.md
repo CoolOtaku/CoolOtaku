@@ -180,6 +180,20 @@
 <a href="https://github.com/CoolOtaku/EndlessDesertSlot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=EndlessDesertSlot&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+<h2 align="center">🌐 Web Sites 🌐</h2>
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/img/switch.png"/></p>
+<h3 align="center">switch-manager</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s5.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/switch-manager/blob/3433f2fc6aec9d0c03c28e977d1d2afbbee2d3eb/screens/s6.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/switch-manager"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=switch-manager&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
