@@ -223,6 +223,21 @@
 <a href="https://github.com/CoolOtaku/online-victorine.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=online-victorine.com&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+<h2 align="center">🖥 Desktop Application 🖥</h2>
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/src/bg.jpg"/></p>
+<h3 align="center">Інтерактивний інструмент для аналізу математичних функцій</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/screenshots/1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/screenshots/2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/screenshots/3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/screenshots/4.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/testTkinter/blob/f6ce5d5c938263a6a78da7bd43280f5b7fd0d560/screenshots/5.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/testTkinter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=testTkinter&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
