@@ -238,6 +238,35 @@
 <a href="https://github.com/CoolOtaku/testTkinter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=testTkinter&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/SPF_your_horse/blob/56b5dba1aed6fa0984bcac3df1d56af2d23348b3/src/res/icon.png"/></p>
+<h3 align="center">SPF_your_horse</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/SPF_your_horse/blob/56b5dba1aed6fa0984bcac3df1d56af2d23348b3/screens/sc2.jpg" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SPF_your_horse/blob/56b5dba1aed6fa0984bcac3df1d56af2d23348b3/screens/sc3.jpg" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SPF_your_horse/blob/56b5dba1aed6fa0984bcac3df1d56af2d23348b3/screens/sc4.jpg" width="49%"/>
+  <img src="https://github.com/CoolOtaku/SPF_your_horse/blob/56b5dba1aed6fa0984bcac3df1d56af2d23348b3/screens/sc7.jpg" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/SPF_your_horse"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=SPF_your_horse&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/MyNotes/blob/64e2a3b4fc75cb20214e6f1f9fb6518b501c47fc/src/sample/style/note.png"/></p>
+<h3 align="center">MyNotes</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/MyNotes/blob/64e2a3b4fc75cb20214e6f1f9fb6518b501c47fc/screens/sc1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MyNotes/blob/64e2a3b4fc75cb20214e6f1f9fb6518b501c47fc/screens/sc2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MyNotes/blob/64e2a3b4fc75cb20214e6f1f9fb6518b501c47fc/screens/sc3.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/MyNotes"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=MyNotes&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
+#
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
