@@ -209,6 +209,20 @@
 <a href="https://github.com/CoolOtaku/city-news-if.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=city-news-if.com&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
+#
+
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/online-victorine.com/blob/87a2114f9ba12fb3ea93d2d5d499e018c3cb76b5/public/assets/img/logo.jpg"/></p>
+<h3 align="center">online-victorine</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/online-victorine.com/blob/87a2114f9ba12fb3ea93d2d5d499e018c3cb76b5/screens/4.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/online-victorine.com/blob/87a2114f9ba12fb3ea93d2d5d499e018c3cb76b5/screens/6.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/online-victorine.com/blob/87a2114f9ba12fb3ea93d2d5d499e018c3cb76b5/screens/7.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/online-victorine.com/blob/87a2114f9ba12fb3ea93d2d5d499e018c3cb76b5/screens/8.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/online-victorine.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=online-victorine.com&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
