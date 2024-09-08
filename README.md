@@ -6,30 +6,31 @@
 
 ## My stack 👨‍💻
 
-<a href="https://github.com/CoolOtaku/YouCoolMusic2" target="_blank">![Java](https://img.shields.io/badge/-Java-%230075a8?logo=java&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/YouCoolMusic2" target="_blank">![Java](https://img.shields.io/badge/-Java-%230075a8?logo=android&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/testTkinter" target="_blank">![Python](https://img.shields.io/badge/-Python-%230075a8?logo=Python&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/switch-manager" target="_blank">![PHP](https://img.shields.io/badge/-PHP-%230075a8?logo=php&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/switch-manager" target="_blank">![Dart](https://img.shields.io/badge/-Dart-%230075a8?logo=dart&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/online-victorine.com" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-%230075a8?logo=javascript&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/citynewsi-f" target="_blank">![HTML](https://img.shields.io/badge/-HTML-%230075a8?logo=html5&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/online-psychologist.com" target="_blank">![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku" target="_blank">![Git](https://img.shields.io/badge/-Git-%230075a8?logo=git&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-%230075a8?logo=libGDX&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-%230075a8?logo=youtubegaming&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/JetX-F-16" target="_blank">![PyGame](https://img.shields.io/badge/-PyGame-%230075a8?logo=Python&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-%230075a8?logo=flutter&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/YourCod" target="_blank">![Laravel](https://img.shields.io/badge/-Laravel-%230075a8?logo=laravel&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-%230075a8?logo=flutter&logoColor=white&style=for-the-badge)</a>
 
 ## Contact me 💭
-- <a href="https://www.instagram.com/coll_otaku/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> Instagram </a>
-- <a href="https://www.facebook.com/profile.php?id=100008579443704"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width=16 height=16 align="center" /> Facebook </a>
-- <a href="https://t.me/Coll_Otaku"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram </a>
-- <a href="mailto:ericspz531@gmail.com">📩 E-mail: `ericspz531@gmail.com`</a>
+- <a href="https://www.instagram.com/coll_otaku/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> **Instagram** </a>
+- <a href="https://www.facebook.com/profile.php?id=100008579443704"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width=16 height=16 align="center" /> **Facebook** </a>
+- <a href="https://t.me/Coll_Otaku"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> **Telegram** </a>
+- <a href="mailto:ericspz531@gmail.com">📩 **E-mail: `ericspz531@gmail.com`** </a>
 
 ## What can I do? 💪
-- <a href="#android_applications">📱 Android Applications 📱</a>
-- <a href="#arcade_games">🎮 Arcade Games 🎮</a>
-- <a href="#casino_games">♧ Casino Games ♧</a>
-- <a href="#web_sites">🌐 Web Sites 🌐</a>
-- <a href="#desktop_application">🖥 Desktop Application 🖥</a>
+- <a href="#android_applications">**📱 Android Applications 📱**</a>
+- <a href="#arcade_games">**🎮 Arcade Games 🎮**</a>
+- <a href="#casino_games">**♧ Casino Games ♧**</a>
+- <a href="#web_sites">**🌐 Web Sites 🌐**</a>
+- <a href="#desktop_application">**🖥 Desktop Application 🖥**</a>
 
 <h2 id="android_applications" align="center">📱 Android Applications 📱</h2>
 
