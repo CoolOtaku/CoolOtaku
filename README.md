@@ -63,7 +63,7 @@
 #
 
 <p align="center"><img height="128" src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
-<h3 align="center">SearchGame2</h3>
+<h3 align="center">Search Games</h3>
 <p align="center">
   <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc2.png" height="450px"/>
   <img src="https://github.com/CoolOtaku/SearchGame2/blob/d997b319af8ff159457ef322950af19372c2fd91/screens/sc4.png" height="450px"/>
