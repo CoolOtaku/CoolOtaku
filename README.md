@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<a href="https://drive.google.com/file/d/1h4NLSNoVaU2VjvhP-9zFsEqdTzDZaQxb/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1AnIfCtNZm6bYKHIN4dn4GeA-jaHat6V6/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
 </a>
 
