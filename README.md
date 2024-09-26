@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<a href="https://drive.google.com/file/d/1AnIfCtNZm6bYKHIN4dn4GeA-jaHat6V6/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1zVTIKpHAtKAXPKyFQG0xf3gbQ_5GhEmZ/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
 </a>
 
@@ -17,6 +17,7 @@
 <a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-%230075a8?logo=youtubegaming&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/JetX-F-16" target="_blank">![PyGame](https://img.shields.io/badge/-PyGame-%230075a8?logo=Python&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/YourCod" target="_blank">![Laravel](https://img.shields.io/badge/-Laravel-%230075a8?logo=laravel&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Moodle](https://img.shields.io/badge/-Moodle-%230075a8?logo=moodle&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-%230075a8?logo=flutter&logoColor=white&style=for-the-badge)</a>
 
 ## Contact me 💭
