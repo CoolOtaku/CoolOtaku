@@ -12,16 +12,18 @@
 <a href="https://github.com/CoolOtaku/switch-manager" target="_blank">![Dart](https://img.shields.io/badge/-Dart-%230075a8?logo=dart&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/online-victorine.com" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-%230075a8?logo=javascript&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/citynewsi-f" target="_blank">![HTML](https://img.shields.io/badge/-HTML-%230075a8?logo=html5&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/online-psychologist.com" target="_blank">![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/online-psychologist.com" target="_blank">![CSS](https://img.shields.io/badge/-CSS-%230075a8?logo=css3&logoColor=white&style=for-the-badge)</a>
 
 <a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-ff69b4?logo=youtubegaming&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/JetX-F-16" target="_blank">![PyGame](https://img.shields.io/badge/-PyGame-ff69b4?logo=Python&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/YourCod" target="_blank">![Laravel](https://img.shields.io/badge/-Laravel-ff69b4?logo=laravel&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/testMoodle" target="_blank">![Moodle](https://img.shields.io/badge/-Moodle-ff69b4?logo=moodle&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-ff69b4?logo=flutter&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/switch-manager" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff69b4?logo=bootstrap&logoColor=white&style=for-the-badge)</a>
 
 <a href="https://github.com/CoolOtaku" target="_blank">![Git](https://img.shields.io/badge/-Git-%230075a8?logo=git&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/testMoodle" target="_blank">![Docker](https://img.shields.io/badge/-Docker-%230075a8?logo=docker&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/YouCoolMusic2" target="_blank">![Gradle](https://img.shields.io/badge/-Gradle-%230075a8?logo=gradle&logoColor=white&style=for-the-badge)</a>
 
 ## Contact me 💭
 - <a href="https://www.instagram.com/coll_otaku/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> **Instagram** </a>
