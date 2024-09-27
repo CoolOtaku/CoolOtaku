@@ -13,12 +13,15 @@
 <a href="https://github.com/CoolOtaku/online-victorine.com" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-%230075a8?logo=javascript&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/citynewsi-f" target="_blank">![HTML](https://img.shields.io/badge/-HTML-%230075a8?logo=html5&logoColor=white&style=for-the-badge)</a>
 <a href="https://github.com/CoolOtaku/online-psychologist.com" target="_blank">![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=for-the-badge)</a>
+
+<a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-ff69b4?logo=youtubegaming&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/JetX-F-16" target="_blank">![PyGame](https://img.shields.io/badge/-PyGame-ff69b4?logo=Python&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/YourCod" target="_blank">![Laravel](https://img.shields.io/badge/-Laravel-ff69b4?logo=laravel&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/testMoodle" target="_blank">![Moodle](https://img.shields.io/badge/-Moodle-ff69b4?logo=moodle&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-ff69b4?logo=flutter&logoColor=white&style=for-the-badge)</a>
+
 <a href="https://github.com/CoolOtaku" target="_blank">![Git](https://img.shields.io/badge/-Git-%230075a8?logo=git&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/BAGPGame" target="_blank">![libGDX](https://img.shields.io/badge/-libGDX-%230075a8?logo=youtubegaming&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/JetX-F-16" target="_blank">![PyGame](https://img.shields.io/badge/-PyGame-%230075a8?logo=Python&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/YourCod" target="_blank">![Laravel](https://img.shields.io/badge/-Laravel-%230075a8?logo=laravel&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Moodle](https://img.shields.io/badge/-Moodle-%230075a8?logo=moodle&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/FutureMyNotes" target="_blank">![Flutter](https://img.shields.io/badge/-Flutter-%230075a8?logo=flutter&logoColor=white&style=for-the-badge)</a>
+<a href="https://github.com/CoolOtaku/testMoodle" target="_blank">![Docker](https://img.shields.io/badge/-Docker-%230075a8?logo=docker&logoColor=white&style=for-the-badge)</a>
 
 ## Contact me 💭
 - <a href="https://www.instagram.com/coll_otaku/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> **Instagram** </a>
@@ -275,15 +278,26 @@
 
 #
 
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/MyConsoleNotes/blob/c7043a2c42dc3dea89dfd20c0e835c5ad9390289/icon.png"/></p>
+<h3 align="center">MyConsoleNotes</h3>
+<p align="center">
+  <img src="https://github.com/CoolOtaku/MyConsoleNotes/blob/c7043a2c42dc3dea89dfd20c0e835c5ad9390289/screens/s1.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MyConsoleNotes/blob/c7043a2c42dc3dea89dfd20c0e835c5ad9390289/screens/s2.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MyConsoleNotes/blob/c7043a2c42dc3dea89dfd20c0e835c5ad9390289/screens/s3.png" width="49%"/>
+  <img src="https://github.com/CoolOtaku/MyConsoleNotes/blob/c7043a2c42dc3dea89dfd20c0e835c5ad9390289/screens/s4.png" width="49%"/>
+</p>
+<p align="center">
+<a href="https://github.com/CoolOtaku/MyConsoleNotes"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolOtaku&repo=MyConsoleNotes&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+</p>
+
+#
+
 ## Stats 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/?username=CoolOtaku&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolOtaku&layout=pie&theme=dark&title_color=0075a8&text_color=ffffff&hide_border=true&card_width=500px">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=CoolOtaku&layout=compact&show_icons=true&count_private=true&theme=dark&title_color=0075a8&text_color=ffffff&icon_color=0075a8&hide_border=true&card_width=500px">
 </p>
 
 ## Hint Git-commands 😅:
