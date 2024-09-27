@@ -22,8 +22,11 @@
 <a href="https://github.com/CoolOtaku/switch-manager" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff69b4?logo=bootstrap&logoColor=white&style=for-the-badge)</a>
 
 <a href="https://github.com/CoolOtaku" target="_blank">![Git](https://img.shields.io/badge/-Git-%230075a8?logo=git&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/testMoodle" target="_blank">![Docker](https://img.shields.io/badge/-Docker-%230075a8?logo=docker&logoColor=white&style=for-the-badge)</a>
-<a href="https://github.com/CoolOtaku/YouCoolMusic2" target="_blank">![Gradle](https://img.shields.io/badge/-Gradle-%230075a8?logo=gradle&logoColor=white&style=for-the-badge)</a>
+<a href="https://www.docker.com" target="_blank">![Docker](https://img.shields.io/badge/-Docker-%230075a8?logo=docker&logoColor=white&style=for-the-badge)</a>
+<a href="https://gradle.org" target="_blank">![Gradle](https://img.shields.io/badge/-Gradle-%230075a8?logo=gradle&logoColor=white&style=for-the-badge)</a>
+<a href="https://maven.apache.org" target="_blank">![Maven](https://img.shields.io/badge/-Maven-%230075a8?logo=apachemaven&logoColor=white&style=for-the-badge)</a>
+<a href="https://www.json.org/json-en.html" target="_blank">![JSON](https://img.shields.io/badge/-JSON-%230075a8?logo=json&logoColor=white&style=for-the-badge)</a>
+<a href="https://manjaro.org" target="_blank">![Linux](https://img.shields.io/badge/-Linux-%230075a8?logo=linux&logoColor=white&style=for-the-badge)</a>
 
 ## Contact me 💭
 - <a href="https://www.instagram.com/coll_otaku/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> **Instagram** </a>
