@@ -1,7 +1,10 @@
 # Hi there! 👋
 
-<a href="https://drive.google.com/file/d/1zVTIKpHAtKAXPKyFQG0xf3gbQ_5GhEmZ/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
+<a href="https://drive.google.com/file/d/1S_RItUz5JoIKj9hsiu7o0JPZ_jOPxf6w/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume  EN-%230075a8?style=for-the-badge&logo=codeigniter&logoColor=white">
+</a>
+<a href="https://drive.google.com/file/d/1IVpZdRzbnLhTlPVX_0ABt2wm7CDa9asz/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume  UA-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
 </a>
 
 ## My stack 👨‍💻
